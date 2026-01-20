@@ -1,0 +1,25 @@
+.: GIT Cheatsheet :.
+Comandos necesarios para resolver los ejercicios del examen. Orden alfabético
+
+• git add [archivo] / git add / git add -f [archivo]
+• git branch [nombre]
+• git cherry-pick [hash]
+• git clone [url]
+• git commit --amend
+• git commit -m "mensaje"
+• git config
+• git fetch origin
+• git init
+• git log --oneline --graph --all
+• git merge [rama]
+• git mv [origen] [destino]
+• git pull origin [rama]
+• git push origin [rama]
+• git reflog
+• git remote -v
+• git reset --hard [hash]
+• git rm [archivo]
+• git stash / git stash pop
+• git status
+• git switch [nombre] / git checkout [nombre]
+• git tag [nombre]
